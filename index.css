@@ -340,6 +340,8 @@ section {
      }
     
      section{
+        position: relative;
+        left: 150px;
         height: 480px;
         width: 320px;
         border: 1px solid ;
